@@ -1,3 +1,5 @@
+#Kerem YAGAN
+#https://github.com/keremyagan
 from collections import Counter
 
 dosya=input("Lütfen Dosya Konumunu Giriniz:")
