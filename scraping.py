@@ -1,3 +1,5 @@
+#Kerem YAGAN
+#https://github.com/keremyagan
 import requests
 from bs4 import BeautifulSoup
 import time
